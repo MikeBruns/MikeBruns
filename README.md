@@ -1,11 +1,11 @@
-## Currently mashing that keyboard 
+## Currently mashing the keyboard 
 
-## stats
+### stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeBruns&count_private=true&hide=cobol,c++)
 ![](https://github-readme-stats.vercel.app/api?username=MikeBruns&count_private=true&theme=tokyonight)
 
-## visitors
+### visitors
 ![](https://profile-counter.glitch.me/mikebruns/count.svg)
 
 
