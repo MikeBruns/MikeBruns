@@ -1,10 +1,14 @@
-## Currently mashing the keyboard 
+## Currently mashing the keyboard :shipit:
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,aws,react,git,php,figma)](https://skillicons.dev)
 
 ### stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeBruns&count_private=true&hide=cobol,c++)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeBruns&theme=dark)](https://git.io/streak-stats)
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=MikeBruns&count_private=true&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeBruns&count_private=true&hide=cobol,c++)
+-->
 ### visitors
 ![](https://profile-counter.glitch.me/mikebruns/count.svg)
 
