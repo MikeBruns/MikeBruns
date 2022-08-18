@@ -1,15 +1,18 @@
 ## Currently mashing the keyboard :shipit:
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,aws,react,git,php,figma)](https://skillicons.dev)
-
-### stats
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,react,php&perline=1)](https://skillicons.dev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MikeBruns&theme=dark)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=git,aws,figma&perline=1)](https://skillicons.dev)
+
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=MikeBruns&count_private=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeBruns&count_private=true&hide=cobol,c++)
 -->
-### visitors
+
+<br><br>
+### 90's visitors counter
 ![](https://profile-counter.glitch.me/mikebruns/count.svg)
 
 
